@@ -1,6 +1,6 @@
 ---
 title: About
-date: 2013-06-16 06:53:00 -07:00
+date: 2013-06-16 07:53:00 -06:00
 position: 3
 lede: 'yes'
 layout: default
@@ -10,12 +10,12 @@ Kai’s combined background in physics, mechanical engineering, typography and d
 
 He has used these skills to work closely with leaders in the fields of technology, science and imagination.
 
-<figure>
+<!--<figure>
 <img src="/uploads/kai_headshot.jpg" alt="">
 <figcaption>
 Photo by <a href="http://www.pixievision.com/" target="_blank" title="Pixie Vision Photography">Pixie</a>
 </figcaption>
-</figure>
+</figure>-->
 
 After earning an engineering and design degree in Germany, Kai moved to the United States, where he worked with <a href="http://en.wikipedia.org/wiki/Kai_Krause" title="Kai Krause on Wikipedia" target="_blank">Kai Krause</a> at MetaTools, developing celebrated products such as <a href="http://en.wikipedia.org/wiki/Kai%27s_Power_Tools" title="Kai’s Power Tools on Wikipedia" target="_blank">Kai’s Power Tools</a>, <a class="fancybox" href="/uploads/1997-Kais-Power-Show-02-By-Kai-Gradert.jpg" title="1997 Kais Power Show 02 - By Kai Gradert">Power Show</a>, and <a class="fancybox" href="/uploads/1997-Kais-Photo-Soap-By-Kai-Gradert.jpg" title="1997 Kais Photo Soap - By Kai Gradert">Soap</a>, among others. Later, Kai was in charge of creating new interface concepts for the <a class="fancybox" href="/uploads/1998-Original-iMac-Interface-02-By-Kai-Gradert.jpg" title="1998 Original iMac Interface 02 - By Kai Gradert">original iMac</a> and the <a class="fancybox" href="/uploads/1999-Lego-01-By-Kai-Gradert.jpg" title="1999 Lego 01 - By Kai Gradert">LEGO Mindstorms</a> series in cooperation with MetaTools, Apple, and LEGO.
 
@@ -25,4 +25,4 @@ Notable among Kai’s achievements is his design of <a class="fancybox" href="/u
 
 As an active member of the UX Community, Kai’s mix of skills continues to lead to diverse projects with new and exciting outcomes.
 
-Kai currently lives in Santa Barbara. When he’s not designing, he enjoys riding his motorcycle, capturing [timelapse photography](/blog/tags/photography/), and spending time with his family.
+When he’s not designing, he enjoys capturing [timelapse photography](/blog/tags/photography/), and spending time with his family.
